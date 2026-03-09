@@ -37,7 +37,7 @@
 - **LLM Application Backend**
 - **LangGraph-based Orchestration**
 - **PostgreSQL / pgvector** / **Qdrant**
-- **MLOps / Docker / Linux**
+- **LLMOps / Docker / Linux**
 - **Problem Solving with Python**
 
 ---
