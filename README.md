@@ -56,12 +56,12 @@
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=flat-square&logo=git&logoColor=white)
 
 ### LLM / Retrieval / Data
+![LangChain](https://img.shields.io/badge/LangChain-8CAAE6.svg?&style=flat-square)
 ![LangGraph](https://img.shields.io/badge/LangGraph-121212.svg?&style=flat-square)
 ![pgvector](https://img.shields.io/badge/pgvector-336791.svg?&style=flat-square)
 ![vLLM](https://img.shields.io/badge/vLLM-4B5563.svg?&style=flat-square)
 ![Triton](https://img.shields.io/badge/Triton-76B900.svg?&style=flat-square)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C.svg?&style=flat-square)
-![Pillow](https://img.shields.io/badge/Pillow-8CAAE6.svg?&style=flat-square)
 
 ---
 
