@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=3,12,20&text=Seongmin%20Jeon&fontColor=ffffff&fontSize=56&animation=fadeIn&fontAlignY=36&desc=LLM%20Systems%20%7C%20RAG%20%7C%20MLOps%20%7C%20Python&descAlignY=58&descSize=18)
+![header](https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=3,12,20&text=Seongmin%20Jeon&fontColor=ffffff&fontSize=56&animation=fadeIn&fontAlignY=36&desc=LLM%20Systems%20%7C%20RAG%20%7C%20LLMOps%20%7C%20Python&descAlignY=58&descSize=18)
 
 <p align="center">
   <a href="https://git.io/typing-svg">
