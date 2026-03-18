@@ -48,7 +48,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1.svg?&style=flat-square&logo=mysql&logoColor=white)
 
-### AI / Backend
+### Backend / Infrastructure
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?&style=flat-square&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?&style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&style=flat-square&logo=docker&logoColor=white)
