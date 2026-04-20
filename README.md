@@ -76,10 +76,6 @@
 ## 🧠 Problem Solving
 
 <p align="center">
-  <img src="https://solvedac-readme-stats.vercel.app/api?handle=dustin36" alt="Solved.ac stats" />
-</p>
-
-<p align="center">
   <a href="https://solved.ac/profile/dustin36">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dustin36" alt="Solved.ac Profile" />
   </a>
