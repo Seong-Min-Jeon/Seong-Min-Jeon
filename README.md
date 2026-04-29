@@ -80,11 +80,6 @@
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dustin36" alt="Solved.ac Profile" />
   </a>
 </p>
-
-<p align="center">
-  <img src="https://mazandi.herokuapp.com/api?handle=dustin36&theme=warm" alt="mazandi profile" />
-</p>
-
 ---
 
 ## 📚 Currently Interested In
