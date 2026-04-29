@@ -80,6 +80,7 @@
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dustin36" alt="Solved.ac Profile" />
   </a>
 </p>
+
 ---
 
 ## 📚 Currently Interested In
