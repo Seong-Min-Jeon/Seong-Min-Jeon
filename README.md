@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3500&pause=1000&color=2F81F7&center=true&vCenter=true&width=900&lines=Python%EC%9C%BC%EB%A1%9C+%EC%8B%A4%EC%9A%A9%EC%A0%81%EC%9D%B8+LLM+%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC+%EB%A7%8C%EB%93%9C%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90;RAG%2C+Text-to-SQL%2C+AI+Backend%EC%97%90+%EA%B4%80%EC%8B%AC%EC%9D%B4+%EB%A7%8E%EC%8A%B5%EB%8B%88%EB%8B%A4;%EB%AC%B8%EC%84%9C%2C+%EB%8D%B0%EC%9D%B4%ED%84%B0%2C+%EB%8F%84%EB%A9%94%EC%9D%B8+%EC%A7%80%EC%8B%9D%EC%9D%84+AI+%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A1%9C+%EC%97%B0%EA%B2%B0%ED%95%A9%EB%8B%88%EB%8B%A4"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3500&pause=1000&color=2F81F7&center=true&vCenter=true&width=900&lines=Building+practical+LLM+applications+with+Python;Working+on+RAG%2C+Text-to-SQL%2C+and+AI+backend+systems;Turning+documents%2C+data%2C+and+domain+knowledge+into+working+services;Interested+in+local+LLMs%2C+retrieval%2C+and+AI+education"
       alt="Typing SVG"
     />
   </a>
